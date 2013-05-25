@@ -15,6 +15,7 @@ public class HelloWord {
 		// TODO Auto-generated method stub
 		System.out.println();
 		System.out.println();
+		System.out.println("HelloWord!");
 	}
 
 }

@@ -16,7 +16,7 @@ public class HelloWord {
 		System.out.println();
 		System.out.println();
 		System.out.println("HelloWord!");
-		System.out.println("北京");
+		System.out.println("北邮");
 		System.out.println("海淀");
 	}
 

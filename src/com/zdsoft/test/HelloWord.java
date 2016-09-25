@@ -1,4 +1,4 @@
-/**
+﻿/**
 * @ClassName: HelloWord
 * @Description: 
 * @author YuYang
@@ -17,7 +17,7 @@ public class HelloWord {
 		System.out.println();
 		System.out.println("HelloWord!");
 		System.out.println("喻阳");
-		System.out.println("喻阳");
+		System.out.println("北京");
 	}
 
 }
